@@ -3,7 +3,7 @@ function TestGitHub() {
   
     return (
       <>
-        Testando o github
+        Modificado o componente de teste do github
       </>
     )
   }
